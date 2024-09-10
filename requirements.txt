@@ -1,1 +1,13 @@
 streamlit
+openai
+langchain
+langchain-community
+tiktoken
+tabulate
+sqlalchemy
+sqlalchemy-bigquery
+google-cloud-bigquery
+google-cloud-bigquery-storage
+langchain_experimental
+langchain_openai
+faiss-cpu==1.8.0
